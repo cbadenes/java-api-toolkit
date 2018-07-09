@@ -1,0 +1,1 @@
+docker build -t cbadenes/java-api-toolkit:0.1 .
